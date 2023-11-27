@@ -1,0 +1,47 @@
+/* Styles for the catalog page */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fdfefe;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: #c0392b;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 1em;
+}
+
+footer {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
