@@ -1,0 +1,90 @@
+/* Styles for the staff profiles page */
+body {
+    font-family: 'YourChosenFont', sans-serif;
+    background-color: #fafafa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #673AB7;
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+}
+
+nav {
+    background-color: #512DA8;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 2em;
+}
+
+.staff-member {
+    margin-bottom: 3em;
+    padding: 2em;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.staff-member:hover {
+    transform: scale(1.02);
+}
+
+.staff-member img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.staff-details {
+    margin-top: 1em;
+}
+
+.staff-details h2 {
+    color: #673AB7;
+}
+
+.staff-details p {
+    margin-bottom: 0.5em;
+}
+
+.staff-details blockquote {
+    background-color: #EDE7F6;
+    border-left: 3px solid #673AB7;
+    margin: 0;
+    padding: 1em;
+}
+
+.staff-details blockquote p {
+    margin: 0;
+}
+
+footer {
+    background-color: #673AB7;
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+}
