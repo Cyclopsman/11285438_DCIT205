@@ -1,5 +1,7 @@
 # DCIT_205_IA
- 
+## My Details
+Name: Osei-Tutu Noel
+ID:11285438
 ## Overview
 
 This project involves creating a comprehensive ten-page website dedicated to computer science. The website aims to provide valuable information, resources, and insights into various computer science topics.
