@@ -58,3 +58,36 @@ Contributions are welcome! If you'd like to contribute or report issues, please 
 
 During the process of completing this project, I got to see firsthand, how CSS and HTML interact and I must say.
 It's quite amazing
+
+
+
+
+![Screenshot 2023-11-28 212037](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/143740db-dc73-4264-ac55-50c98c4e837b)
+
+![Screenshot 2023-11-28 212512 - Copy](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/5d3a888a-1e68-4a99-a926-1302d5eb315e)
+
+![Screenshot 2023-11-28 212405 - Copy](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/533da0f1-dc17-4f06-a15c-4de0d88f3ccf)
+
+![Screenshot 2023-11-28 212114 - Copy](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/4791372d-e181-4e1a-a2bc-e4387e9f856f)
+
+![Screenshot 2023-11-28 212446 - Copy](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/52ed07b3-21d8-4dbf-bbef-180c507ac6f1)
+
+![Screenshot 2023-11-28 212540](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/0c97ccff-7541-4a15-aa19-d6fd8c5c2b28)
+
+![Screenshot 2023-11-28 212607](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/440cdd3a-0c83-4089-bf5b-498846882fe1)
+
+![Screenshot 2023-11-28 212627](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/9b7e7b48-6a94-4519-b2a3-1657eff3c4de)
+
+![Screenshot 2023-11-28 212709](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/8f0abede-ecf7-472b-8758-f0bf4ea83208)
+
+![Screenshot 2023-11-28 213902](https://github.com/Cyclopsman/11285438_DCIT205/assets/151868524/bf75c52c-05ed-4d25-bfe6-66f026782843)
+
+
+
+
+
+
+
+
+
+
