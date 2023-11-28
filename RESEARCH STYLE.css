@@ -1,0 +1,47 @@
+/* Styles for the research and publications page */
+body {
+    font-family: 'YourChosenFont', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF9800;
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+}
+
+nav {
+    background-color: #F57C00;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 2em;
+}
+
+.publication {
+    margin-bottom: 2em;
+    padding: 1em;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5
